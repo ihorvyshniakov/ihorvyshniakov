@@ -2,11 +2,11 @@
 
 <!-- E44C30 -->
 
-![HTML](https://img.shields.io/badge/HTML-success?labelColor=ede8e8&logoColor=orange&style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-success?labelColor=ede8e8&logoColor=blue&style=for-the-badge&logo=css3)
-![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-success?labelColor=ede8e8&logoColor=orange&style=for-the-badge&logo=javascript)
-![REACT](https://img.shields.io/badge/REACT-success?labelColor=ede8e8&logoColor=blue&style=for-the-badge&logo=react)
-![GIT](https://img.shields.io/badge/GIT-success?labelColor=ede8e8&logoColor=orange&style=for-the-badge&logo=git)
+![](https://img.shields.io/badge/HTML-success?labelColor=ede8e8&logoColor=orange&style=for-the-badge&logo=html5)
+![](https://img.shields.io/badge/CSS-success?labelColor=ede8e8&logoColor=blue&style=for-the-badge&logo=css3)
+![](https://img.shields.io/badge/JAVASCRIPT-success?labelColor=ede8e8&logoColor=orange&style=for-the-badge&logo=javascript)
+![](https://img.shields.io/badge/REACT-success?labelColor=ede8e8&logoColor=blue&style=for-the-badge&logo=react)
+![](https://img.shields.io/badge/GIT-success?labelColor=ede8e8&logoColor=orange&style=for-the-badge&logo=git)
 
 ### Contact
 
