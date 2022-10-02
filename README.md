@@ -1,16 +1,12 @@
 ### Languages and tools
 
-![HTML](https://img.shields.io/badge/HTML-E44C30?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-E44C30?style=for-the-badge&logo=html5&logoColor=white)
-![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-E44C30?style=for-the-badge&logo=html5&logoColor=white)
-![REACT](https://img.shields.io/badge/REACT-E44C30?style=for-the-badge&logo=html5&logoColor=white)
-![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+<!-- E44C30 -->
 
-![HTML](https://img.shields.io/badge/-HTML-success?labelColor=white&style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-success?labelColor=white&logoColor=blue&style=flat&logo=css3)
-![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-success?labelColor=white&logoColor=orange&style=flat&logo=javascript)
-![REACT](https://img.shields.io/badge/-REACT-success?labelColor=white&logoColor=blue&style=flat&logo=react)
-![GIT](https://img.shields.io/badge/-GIT-success?labelColor=white&logoColor=orange&style=flat&logo=git)
+![HTML](https://img.shields.io/badge/HTML-success?labelColor=white&logoColor=orange&style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-success?labelColor=white&logoColor=blue&style=for-the-badge&logo=css3)
+![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-success?labelColor=white&logoColor=orange&style=for-the-badge&logo=javascript)
+![REACT](https://img.shields.io/badge/REACT-success?labelColor=white&logoColor=blue&style=for-the-badge&logo=react)
+![GIT](https://img.shields.io/badge/GIT-success?labelColor=white&logoColor=orange&style=for-the-badge&logo=git)
 
 ### Contact
 
