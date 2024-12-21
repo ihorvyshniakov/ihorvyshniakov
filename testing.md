@@ -1,3 +1,5 @@
+[<img src="https://github.com/user-attachments/assets/e390beb3-8239-41b6-bca3-631575196d80" alt="Resume link" width="150"/>](https://www.linkedin.com/in/ihor-vyshniakov/)
+
 ### 🛠 Stack
 
 ![](https://img.shields.io/badge/JAVASCRIPT-success?labelColor=ede8e8&logoColor=orange&style=for-the-badge&logo=javascript)
