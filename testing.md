@@ -18,16 +18,53 @@
 
 # Portfolio 👇
 
+## [Creative Digital Agency](https://ihorvyshniakov.github.io/mywork8/)
+Multi-page digital agency website.
+<br>Animations. Image carousels. Google Maps. Charts. Parallax.
+<br>No framework.
+
+`html5` `css3` `javascript` `bootstrap` `jquery`
+<br>
+
+<details>
+    <br>
+    <summary><b>Extra libraries</b></summary>
+  
+  | Library name | Description |
+  | --- | --- |
+  | [`bootstrap`](https://github.com/twbs/bootstrap)                             | UI |
+  | [`wow.js`](https://github.com/graingert/wow)                                 | Animations |
+  | [`izotope`](https://github.com/metafizzy/isotope)                            | Filter & sorting |
+  | [`gmaps`](https://github.com/hpneo/gmaps)                                    | Google Maps |
+  | [`owl.carousel`](https://github.com/OwlCarousel2/OwlCarousel2)               | Image carousel |
+  | [`jquery`](https://github.com/jquery/jquery)                                 | Functionality |
+  | [`jquery.easy-pie-chart`](https://github.com/rendro/easy-pie-chart)          | Radial pie charts |
+  | [`jquery.stellar`](https://github.com/markdalgleish/stellar.js)              | Parallax effect |
+  | [`jquery.validate`](https://github.com/jquery-validation/jquery-validation)  | Form validation |
+</details>
+
+<p align="center">
+<kbd><img src="https://github.com/user-attachments/assets/46d6b59f-2790-460b-9d24-60ab817986db" alt="Creative Digital Agency preview" width="430"/></kbd>
+<kbd><img src="https://github.com/user-attachments/assets/ff63cadd-db48-42e8-b766-6feffd4b3412" alt="Creative Digital Agency mobile preview" width="180"/></kbd>
+</p>
+
+
+<!--
 <details open>
-  <summary><h2>Web apps</h2></summary>
-  <h3>1. App 1</h3>
-  <h3>2. App 2</h3>
+  <br>
+  <summary><b>Extra libraries</b></summary>
+  
+| Library name | Description |
+| --- | --- |
+| `bootstrap` | UI |
+| `wow.js` | Animations |
+| `izotope` | Filter & sorting |
+| `gmaps` | Google Maps |
+| `owl.carousel` | Image carousel |
+| `jquery` | Functionality |
+| `jquery.easy-pie-chart` | Radial pie charts |
+| `jquery.stellar` | Parallax effect |
+| `jquery.validate` | Form validation |
+
 </details>
-<details>
-  <summary><h2>Websites</h2></summary>
-  <h3>1. Website 1</h3>
-  <h3>2. Website 2</h3>
-</details>
-<details>
-  <summary><h2>Showcases</h2></summary>
-</details>
+-->
