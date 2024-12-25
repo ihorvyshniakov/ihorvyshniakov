@@ -1,4 +1,6 @@
+<!--
 ⚡️ [![](https://img.shields.io/badge/Portfolio-ffb800?labelColor=ede8e8&style=for-the-badge)](https://ihorvyshniakov.github.io/) ⚡️
+-->
 
 ### 🛠 Stack
 
