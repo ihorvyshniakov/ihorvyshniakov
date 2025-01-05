@@ -17,3 +17,5 @@
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ihor-vyshniakov/)
 [![](https://img.shields.io/badge/Gmail-tomato?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gramazekavip@gmail.com)
+
+<h2> 📚 Portfolio (pinned projects) 👇 </h2>
