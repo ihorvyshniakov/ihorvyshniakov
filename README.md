@@ -18,9 +18,9 @@
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ihor-vyshniakov/)
 [![](https://img.shields.io/badge/Gmail-tomato?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gramazekavip@gmail.com)
 
-<h2> 📚 Portfolio 👇 </h2>
+<h1> 📚 Portfolio 👇 </h1>
 
-# [Movie Explorer App](https://movie-explorer-app-rust.vercel.app)
+## [Movie Explorer App](https://movie-explorer-app-rust.vercel.app)
 
 <br>Routing. Pagination. Dark / Light mode. Animations.
 <br>React Hooks API. Context API. Modals. Error handling.
@@ -51,7 +51,7 @@
 </p>
 
 
-# [Creative Digital Agency](https://ihorvyshniakov.github.io/digital-agency/)
+## [Creative Digital Agency](https://ihorvyshniakov.github.io/digital-agency/)
 Multi-page digital agency website.
 <br>Animations. Image carousels. Google Maps. Charts. Parallax.
 <br>No framework.
